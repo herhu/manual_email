@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Animated using aniGen version 0.8.1 Quality of Life - http://anigen.org -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32px" height="32px" fill="#62cb31" preserveAspectRatio="xMidYMid" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:anigen="http://www.anigen.org/namespace" anigen:version="0.8.1" id="svg9915">
+    <path transform="matrix(-1 2.6718907323636308e-24 2.6718907323636308e-24 1 12.000008583068848 0.00000286102294921875)" d="M 0 12 L 0 20 L 4 20 L 4 12 Z" style="fill-rule: nonzero; fill: rgb(16, 76, 122); opacity: 1;" id="path231">
+        <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1.2s" repeatCount="indefinite" begin="0.2" keyTimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" id="animate5700"></animate>
+    </path><defs id="defs4233"><filter id="filter4072" x="-2" y="-4" height="4" width="8"><feGaussianBlur id="feGaussianBlur5747" stdDeviation="0"></feGaussianBlur></filter><filter id="filter9789" x="-2" y="-4" height="4" width="8"><feGaussianBlur id="feGaussianBlur2263" stdDeviation="0"></feGaussianBlur></filter></defs><sodipodi:namedview bordercolor="#666666" borderopacity="1" inkscape:cx="27.298097038856262" inkscape:cy="-15.535533905932738" inkscape:zoom="5.6568542494923815" id="sodipodi:namedview1453"></sodipodi:namedview><path transform="translate(2)" d="M0 12 V20 H4 V12z" style="fill: rgb(26, 25, 104);" id="path8238">
+        <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1.2s" repeatCount="indefinite" begin="0" keyTimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" id="animate1599"></animate>
+    </path>
+    
+    <path transform="translate(14)" d="M 0 12 L 0 20 L 4 20 L 4 12 Z" style="fill: rgb(12, 103, 133);" id="path9754">
+        <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1.2s" repeatCount="indefinite" begin="0.4" keyTimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" id="animate3242"></animate>
+    </path>
+    <path transform="translate(20)" d="M 0 12 L 0 20 L 4 20 L 4 12 Z" style="fill: rgb(3, 148, 149);" id="path6213">
+        <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1.2s" repeatCount="indefinite" begin="0.6" keyTimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" id="animate4922"></animate>
+    </path>
+    <path transform="translate(26)" d="M 0 12 L 0 20 L 4 20 L 4 12 Z" style="fill: rgb(0, 169, 157);" id="path3762">
+        <animate attributeName="d" values="M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z" dur="1.2s" repeatCount="indefinite" begin="0.8" keyTimes="0;.2;.5;1" keySplines="0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8" calcMode="spline" id="animate2079"></animate>
+    </path>
+<animate attributeType="auto" attributeName="viewBox" anigen:lock="skip" id="path1057" keyTimes="0;0.2;0.5;1" keySplines=".2 .2 .4 .8;.2 .6 .4 .8;.2 .8 .4 .8" values="0 0 32 32;0 0 32 32;0 0 32 32;0 0 32 32" dur="1.2s" repeatCount="indefinite" calcMode="spline" fill="replace" additive="replace" accumulate="none" begin="0s"></animate></svg>
