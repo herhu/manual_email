@@ -17,11 +17,11 @@ var cors = require('cors');
 
 app.use(cors({origin: 'http://localhost:5050'}));
 app.use(express.static(path.join(__dirname, 'Prod')));
-app.use(express.static(path.join('/home/administrador/checkOut/web')));
-app.use(express.static(path.join('/home/administrador/frenonApi/img')));
+// app.use(express.static(path.join('/home/administrador/checkOut/web')));
+// app.use(express.static(path.join('/home/administrador/frenonApi/img')));
 
 app.get('*', (req, res) => {
-	console.log("data",req.headers.host);
+	console.log("data servida",req.headers.host);
 	res.sendFile(path.join(__dirname, 'Prod/index.html'));
 });
 
@@ -31,4 +31,4 @@ const port = '5050';
 const server = http.createServer(app);
 
 
-server.listen(port,() => console.log(`web check in-out:${port}`));
+server.listen(port,() => console.log(`web check is running in :${port} 🔥`));
