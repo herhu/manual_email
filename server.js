@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: false}));
 var cors = require('cors');
 
 // app.use(express.vhost('checkout.hscp.cl', require('/home/administrador/checkOut/web').app));
-// app.use(express.vhost('checkin.hscp.cl', require(__dirname+'Prod/index.html').app));
+// app.use(express.vhost('pagos.hscp.cl', require(__dirname+'Prod/index.html').app));
 
 app.use(cors({origin: 'http://localhost:5050'}));
 app.use(express.static(path.join(__dirname, 'Prod')));
